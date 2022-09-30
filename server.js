@@ -28,7 +28,7 @@ app.use("/api/pizzas", require("./routes/pizzaRoutes"));
 app.use("/api/users", require('./routes/userRoutes'));
 app.use("/api/orders", require('./routes/orderRoutes'))
 app.get("/",(req,res) =>{
-    res.send('<h1>Welcome!</h1>');
+    res.send('<h1>Welcome Guys!</h1>');
 })
 
 

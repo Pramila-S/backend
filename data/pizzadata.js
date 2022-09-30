@@ -74,7 +74,7 @@ const pizzas = [
         "A classic American taste! Relish the delectable flavor of Chicken Pepperoni, topped with extra cheese",
     },
     {
-      name: "Indi Chicken Tikka",
+      name: "Indian Chicken Tikka",
       varients: ["small", "medium", "large"],
       prices: [
         {
